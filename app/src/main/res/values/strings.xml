@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">The cat app</string>
+    <string name="text_error">Error</string>
+
+    //home screen
+    <string name="favorite">Favorite</string>
+    <string name="see_all">See all</string>
+
+    //cat detail screen
+    <string name="download_image">Download image</string>
+    <string name="country">Country</string>
+    <string name="age">Age</string>
+    <string name="empty_list">Empty list</string>
+
+</resources>
